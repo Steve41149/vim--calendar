@@ -1,4 +1,4 @@
-# vim--calendar
+# WARNING: IT IS NOT A PLUG!!!
 A vim calendar modeled after Bram Moolenaar  
 
 vim /home/diamondblock/desktop/vim-calendar.txt  
