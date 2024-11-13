@@ -1,4 +1,4 @@
-# WARNING: IT IS NOT A PLUG!!!
+# WARNING: IT IS NOT A PLUG!!! IT'S A PHOTO!!!  
 A vim calendar modeled after Bram Moolenaar  
 
 vim /home/diamondblock/desktop/vim-calendar.txt  
