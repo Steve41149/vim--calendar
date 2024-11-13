@@ -2,12 +2,12 @@
 A vim calendar modeled after Bram Moolenaar  
 
 vim /home/diamondblock/desktop/vim-calendar.txt  
-
+  
 i  
-
+  
 ## The calendar is in Chinese Simplified and is not currently available in other languages, but you can download my PSD file and go to bram's personal website to download the original PDF as a cross-reference.  
 ## This is his website: https://www.moolenaar.net/
-
+  
 ### 警告：这不是一个vim插件！这是一个图片！打两个--是为了防止被误认为一个vim插件！  
 这是一个仿照Bram Moolenaar个人网站中他生前所做的一个日历，只是闲来无趣想到了这个东西做的  
 原版日历只有2023年的，你可以在Bram的个人官网中下载  
@@ -18,10 +18,12 @@ Bram的个人官网：https://www.moolenaar.net/
 PSD文件已经投放在仓库中了，推荐使用Photoshop CC 2019版本或更高  
 如果我还记得这个仓库的话我大概每11-12月都更新一次  
 这只是一个日历，只是单纯想做就做了  
-   
+如果有建议可以在issue中提，或者发送到我的个人邮箱：  
+2945549684@qq.com  
+  
 #### 大陆用户可以用下面的蓝奏云链接来下载PSD和PNG文件的压缩包：  
 https://wwkw.lanzoub.com/idZgv2eyyu6b  
-
+  
 R.I.P Bram Moolenaar
-
+  
 :wq!
