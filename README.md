@@ -5,10 +5,13 @@ vim /home/diamondblock/desktop/vim-calendar.txt
 
 i  
 
-## The calendar is in Chinese Simplified and is not currently available in other languages, but you can download my PSD file and go to bram's personal website to download the original PDF as a cross-reference.
+## The calendar is in Chinese Simplified and is not currently available in other languages, but you can download my PSD file and go to bram's personal website to download the original PDF as a cross-reference.  
+## This is his website: https://www.moolenaar.net/
 
 ### 警告：这不是一个vim插件！这是一个图片！打两个--是为了防止被误认为一个vim插件！  
-一个仿照Bram Moolenaar个人网站中他生前所做的一个日历，只是闲来无趣想到了这个东西做的  
+这是一个仿照Bram Moolenaar个人网站中他生前所做的一个日历，只是闲来无趣想到了这个东西做的  
+原版日历只有2023年的，你可以在Bram的个人官网中下载  
+Bram的个人官网：https://www.moolenaar.net/
 本来想直接改PDF的但是发现因为文本倒置的问题会出现一系列bug，免费且好用的改了会乱（PDFgear），然后我就懒得再找PDF编辑器来改了  
 做了汉化和日历配色处理，还有节假日的颜色标注（红色为休橙色为班），其余元素都有保留（包括Bram的签名和ICCF之类的元素）  
 假期信息来自MSN的日历，如果有误可自行修改  
